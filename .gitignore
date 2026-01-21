@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
